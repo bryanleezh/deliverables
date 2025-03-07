@@ -1,0 +1,3 @@
+install git-lfs
+run "git lfs fetch" in the repository
+run "git lfs checkout" in the repository and the .mp4 presentation video should be visible
